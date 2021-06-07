@@ -13,9 +13,9 @@ Please invite me to the Coders Evoke Github Organisation !
 
 <!--Some Details-->
 
-- #### Name:
+- #### Name:Nandani Paliwal
 
-- #### Discord Username(if exists):
+- #### Discord Username(if exists):Nandani Paliwal#8755
 
 <!--https://discord.gg/ (link to our discord server)-->
 
