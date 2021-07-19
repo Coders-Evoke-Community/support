@@ -9,7 +9,7 @@ Raise an issue to join the **Coders Evoke** Community GitHub community.
 
 Get your ideas in the GitHub Issue Queue!
 
-If we could find a really good name for this, we could have a `"support"` repo in GitHub profiles, similar to the GitHub username README (n.b. to create `githubusername/githubusername` as a repo then put a README in there.)
+If we could find a really good name for this, we could have a `"support"` repo in GitHub profiles, similar to the GitHub username README (n.b. to create `githubusername/githubusername` as a repo then put a README in there.
 
 We could then have folks to have their own "support" repository and be able to PR in their contributions!
 
