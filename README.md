@@ -48,3 +48,7 @@ Please check out the [issue queue](https://github.com/Coders-Evoke-Community/sup
 
 >Join our discord community [here](https://discord.gg/FZusE7FH4q)   
 >Subscribe our YouTube channel [here](https://youtube.com/channel/UCFE8w2GXyhRTF_CObDIOKnQ)
+
+## join our community Coders Evoke 
+<p href:https://discord.gg/XMuEPgCj6y;>link</p>
+
