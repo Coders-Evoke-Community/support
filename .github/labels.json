@@ -27,5 +27,6 @@
   { "name": "🔢 points: 5", "color": "62A1A6" }, 
   { "name": "🔢 points: 8", "color": "62A1A6" }, 
  
-  { "name": "no issue activity", "color": "ededed" } 
+  { "name": "no issue activity", "color": "ededed" },
+  {"name":"invite me to the organisation","color":"green"}
 ]
